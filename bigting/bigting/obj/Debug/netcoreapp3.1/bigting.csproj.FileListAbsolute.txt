@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.exe
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.deps.json
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.dll
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.pdb
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.dll
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.pdb
+C:\Users\opilane\source\repos\titpe21\bigting\bigting\obj\Debug\netcoreapp3.1\bigting.genruntimeconfig.cache

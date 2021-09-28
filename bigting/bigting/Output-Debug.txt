@@ -1,0 +1,18 @@
+﻿'bigting.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Private.CoreLib.dll'. Symbols loaded.
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Users\opilane\source\repos\titpe21\bigting\bigting\bin\Debug\netcoreapp3.1\bigting.dll'. Symbols loaded.
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Runtime.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Console.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Threading.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Runtime.Extensions.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Text.Encoding.Extensions.dll'. 
+Exception thrown: 'System.FormatException' in System.Private.CoreLib.dll
+An unhandled exception of type 'System.FormatException' occurred in System.Private.CoreLib.dll
+Input string was not in a correct format.
+
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Diagnostics.StackTrace.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Reflection.Metadata.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.IO.FileSystem.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Collections.Immutable.dll'. 
+'bigting.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.19\System.Runtime.InteropServices.dll'. 
+The program '[1604] bigting.exe: Program Trace' has exited with code 0 (0x0).
+The program '[1604] bigting.exe' has exited with code 0 (0x0).
